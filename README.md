@@ -18,6 +18,8 @@ Identify key differences and potential opportunities to influence customers into
 
 [Google Data Analytics Professional Certificate]() (Apr 2024)
 
+<h2>REMAINDER OF THE CV</h2>
+
 <h2>🎓 Education</h2>
 
 Master of Science in Chemical Engineering - Instituto Superior Técnico, Lisbon, Portugal (Dec 2022)  
