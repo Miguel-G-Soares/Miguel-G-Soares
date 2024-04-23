@@ -30,7 +30,7 @@ Bachelor of Science in Chemical Engineering - Instituto Superior Técnico, Lisbo
 
 <h2>🙋‍♂️ Want to learn more?</h2>
 
-Here is my [CV]()
+Here is my [CV](CV.docx)
 
 <h2>📱 Connect with me:</h2>
 
