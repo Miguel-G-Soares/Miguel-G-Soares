@@ -4,16 +4,27 @@ My portfolio includes Python scripts for data manipulation as well as Tableau vi
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
-- <b>R, Python & SQL</b>
-  - [Cyclistic - Bicycle Sharing, Chicago](https://github.com/Miguel-G-Soares/Cyclistic-Analysis)
+### [Cyclistic - Bicycle Sharing, Chicago](https://github.com/Miguel-G-Soares/Cyclistic-Analysis)
+**Description:**
+A bike sharing company in Chicago aims to move away from their current strategy and establishes a new goal, converting their casual pay-per-ride customers into annual membership subscribers.
 
-<h2>🎓 Certifications</h2>
+**Objective:**
+Preform an exploratory data analysis (EDA) on the customer base & consumer habits of casual riders vs annual membership users.
+Identify key differences and potential opportunities to influence customers into upgrading their subscription plan.
+
+<h2>📝 Certifications</h2>
 
 [Python for Everybody](https://www.coursera.org/account/accomplishments/specialization/X4YYJ6DR32AB)
 
 [Google Data Analytics Professional Certificate]()
 
-<h2> 🤳 Connect with me:</h2>
+<h2>🎓 Education</h2>
+
+Master of Science in Chemical Engineering - Instituto Superior Técnico, Lisbon, Portugal (Dec 2022)  
+ERASMUS+ - Technical University of Denmark, Copenhagen, Denmark (Jan 2021)  
+Bachelor of Science in Chemical Engineering - Instituto Superior Técnico, Lisbon, Portugal (Jul 2020)  
+
+<h2>📱 Connect with me:</h2>
 
 [<img align="left" alt="Miguel-G-Soares | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Miguel-G-Soares | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
