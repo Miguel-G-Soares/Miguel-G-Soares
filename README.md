@@ -1,5 +1,6 @@
 <h1>Hey, I'm Miguel! </h1>
-Welcome to my Github portfolio! As a budding Data Analyst with a background in engineering, I specialise in using data to generate insights and data-driven decisions. Here is a selection of projects that demonstrate my ability in data analysis, programming, and optimisation. My portfolio includes Python scripts for data manipulation as well as Tableau visualisations, demonstrating my love for translating difficult statistics into meaningful insights. Please feel free to explore my repositories and contact me if you have any questions or would want to collaborate!
+Welcome to my Github portfolio! As a budding Data Analyst with a background in engineering, I specialise in using data to generate insights and data-driven decisions. Here is a growing selection of projects that demonstrate my ability in data analysis, programming, and optimisation.
+My portfolio includes Python scripts for data manipulation as well as Tableau visualisations, demonstrating my love for translating lengthy statistics into meaningful insights. Please feel free to explore my repositories and contact me if you have any questions or would want to collaborate!
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
