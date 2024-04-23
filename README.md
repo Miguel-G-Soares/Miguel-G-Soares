@@ -18,13 +18,15 @@ Identify key differences and potential opportunities to influence customers into
 
 [Google Data Analytics Professional Certificate]() (Apr 2024)
 
-<h2>REMAINDER OF THE CV</h2>
-
 <h2>🎓 Education</h2>
 
 Master of Science in Chemical Engineering - Instituto Superior Técnico, Lisbon, Portugal (Dec 2022)  
 ERASMUS+ - Technical University of Denmark, Copenhagen, Denmark (Jan 2021)  
 Bachelor of Science in Chemical Engineering - Instituto Superior Técnico, Lisbon, Portugal (Jul 2020)  
+
+<h2>🙋‍♂️ Want to learn more?</h2>
+
+Here is my [CV]()
 
 <h2>📱 Connect with me:</h2>
 
