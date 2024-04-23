@@ -26,7 +26,7 @@ Bachelor of Science in Chemical Engineering - Instituto Superior Técnico, Lisbo
 
 <h2>📱 Connect with me:</h2>
 
-<a href="mailto:email@example.com"><img align="left" alt="Miguel-G-Soares | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" /></a>
+<a href="mailto:mglpsoares@gmail.com"><img align="left" alt="Miguel-G-Soares | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" /></a>
 [<img align="left" alt="Miguel-G-Soares | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Miguel-G-Soares | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Miguel-G-Soares | Coursera" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/coursera.svg" />][coursera]
