@@ -35,3 +35,6 @@ Bachelor of Science in Chemical Engineering - Instituto Superior Técnico, Lisbo
 [linkedin]: https://www.linkedin.com/in/miguel-guilherme-soares/
 [coursera]: https://www.coursera.org/user/042a7d24fa67e2f35b26abada04a2737
 [email]: https://mglpsoares@gmail.com
+
+
+<a href="mailto:email@example.com?cc=secondemail@example.com, anotheremail@example.com, &bcc=lastemail@example.com&subject=Mail from our Website&body=Some body text here">Send Email</a>
