@@ -26,15 +26,12 @@ Bachelor of Science in Chemical Engineering - Instituto Superior Técnico, Lisbo
 
 <h2>📱 Connect with me:</h2>
 
+<a href="mailto:email@example.com"><img align="left" alt="Miguel-G-Soares | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" /></a>
 [<img align="left" alt="Miguel-G-Soares | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Miguel-G-Soares | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Miguel-G-Soares | Coursera" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/coursera.svg" />][coursera]
-[<img align="left" alt="Miguel-G-Soares | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email]
 
 [instagram]: https://www.instagram.com/miguel.g.l.p.soares/
 [linkedin]: https://www.linkedin.com/in/miguel-guilherme-soares/
 [coursera]: https://www.coursera.org/user/042a7d24fa67e2f35b26abada04a2737
-[email]: https://mglpsoares@gmail.com
 
-
-<a href="mailto:email@example.com?cc=secondemail@example.com, anotheremail@example.com, &bcc=lastemail@example.com&subject=Mail from our Website&body=Some body text here">Send Email</a>
