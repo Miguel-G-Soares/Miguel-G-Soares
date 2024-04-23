@@ -1,6 +1,10 @@
 <h1>Hey, I'm Miguel! 👋 </h1>
-Welcome to my Github portfolio! As a budding Data Analyst with a background in engineering, I specialise in using data to generate insights and data-driven decisions. Here is a growing selection of projects that demonstrate my ability in data analysis, programming, and optimisation.
-My portfolio includes Python scripts for data manipulation as well as Tableau visualisations, demonstrating my love for translating lengthy statistics into meaningful insights. Please feel free to explore my repositories and contact me if you have any questions or would want to collaborate!
+
+Welcome to my GitHub portfolio. As a Data Analyst with an engineering background, I focus on generating insights and making data-driven decisions.
+
+I have a growing portfolio of projects demonstrating my expertise in data cleaning, analysis, and visualisation. My portfolio features R, Python, and SQL queries for data manipulation, as well as Tableau visualisations, illustrating my passion for turning complex data into relevant insights.
+
+Feel free to explore my repositories and contact me if you have any questions!
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
@@ -14,9 +18,9 @@ Identify key differences and potential opportunities to influence customers into
 
 <h2>📝 Certifications</h2>
 
-[Python for Everybody](https://www.coursera.org/account/accomplishments/specialization/X4YYJ6DR32AB) (Jan 2024)
-
 [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/3U3J3VNBNDJ5) (Apr 2024)
+
+[Python for Everybody](https://www.coursera.org/account/accomplishments/specialization/X4YYJ6DR32AB) (Jan 2024)
 
 <h2>🎓 Education</h2>
 
