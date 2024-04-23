@@ -2,7 +2,7 @@
 
 Welcome to my GitHub portfolio. As a Data Analyst with an engineering background, I focus on generating insights and making data-driven decisions.
 
-I have a growing portfolio of projects demonstrating my expertise in data cleaning, analysis, and visualisation. My portfolio features R, Python, and SQL queries for data manipulation, as well as Tableau visualisations, illustrating my passion for turning complex data into relevant insights.
+I have a growing portfolio of projects demonstrating my expertise in data cleaning, analysis, and visualisation, featuring R, Python, and SQL queries for data manipulation, as well as Tableau visualisations, illustrating my passion for turning complex data into relevant insights.
 
 Feel free to explore my repositories and contact me if you have any questions!
 
