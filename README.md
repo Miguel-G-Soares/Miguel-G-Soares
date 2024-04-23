@@ -16,7 +16,7 @@ Identify key differences and potential opportunities to influence customers into
 
 [Python for Everybody](https://www.coursera.org/account/accomplishments/specialization/X4YYJ6DR32AB) (Jan 2024)
 
-[Google Data Analytics Professional Certificate]() (Apr 2024)
+[Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/3U3J3VNBNDJ5) (Apr 2024)
 
 <h2>🎓 Education</h2>
 
