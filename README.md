@@ -8,7 +8,7 @@ Feel free to explore my repositories and contact me if you have any questions!
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
-### [Cyclistic - Bicycle Sharing, Chicago](https://github.com/Miguel-G-Soares/Cyclistic-Analysis)
+### [Cyclistic - Bicycle Sharing, Chicago](https://github.com/Miguel-G-Soares/Cyclistic-Analysis) ( SQL, R , Python )
 **Description:**
 A bike sharing company in Chicago aims to move away from their current strategy and establishes a new goal, converting their casual pay-per-ride customers into annual membership subscribers.
 
