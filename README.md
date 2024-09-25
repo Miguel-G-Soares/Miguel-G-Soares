@@ -1,4 +1,4 @@
-<h1>Hey, I'm Miguel! 👋 </h1>
+<h1>Hey, I'm Miguel! </h1>
 
 Welcome to my GitHub portfolio. As a Data Analyst with an engineering background, I focus on generating insights and making data-driven decisions.
 
