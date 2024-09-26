@@ -6,9 +6,23 @@ I have a growing portfolio of projects demonstrating my expertise in data cleani
 
 Feel free to explore my repositories and contact me if you have any questions!
 
-<h2>👨‍💻 Data Analysis Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
-### [Cyclistic - Bicycle Sharing, Chicago](https://github.com/Miguel-G-Soares/Cyclistic-Analysis) ( SQL, R , Python )
+### [Employee Turnover Prediction at Salifort Motors](https://github.com/Miguel-G-Soares/Employee-Turnover-ML-Model)
+
+*( Python - Logistic Regression, Naive Bayes, Decision Tree, Random Forest, Gradient Boosting )*
+
+**Description:**
+The HR department of Salifort Motors is concerned about employee turnover,and wants to understand what features contribute most to emloyee turnover rates to help identify employees at risk of leaving.
+
+**Objective:**
+Preform an exploratory data analysis (EDA) on employee data to identify key factors that contribute to employee turnover.
+Create various machine learning models to predict whom is most at risk.
+
+### [Cyclistic - Bicycle Sharing, Chicago](https://github.com/Miguel-G-Soares/Cyclistic-Analysis)
+
+*( SQL, R , Python )*
+
 **Description:**
 A bike sharing company in Chicago aims to move away from their current strategy and establishes a new goal, converting their casual pay-per-ride customers into annual membership subscribers.
 
