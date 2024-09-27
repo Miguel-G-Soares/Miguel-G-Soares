@@ -8,7 +8,7 @@ Feel free to explore my repositories and contact me if you have any questions!
 
 <h2>📕 Guides</h2>
 
-### Journey into Data Science
+### [Journey into Data Science](https://github.com/Miguel-G-Soares/Journey-into-Data-Science)
 **Description:**
 Detailed, easy-to-understand guide documenting my learning, covering the fundamental theory of data science, including exploratory data analysis (EDA), statistics, regression and machine learning.
 
