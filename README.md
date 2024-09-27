@@ -1,8 +1,8 @@
 <h1>Hey, I'm Miguel! </h1>
 
-Welcome to my GitHub portfolio. As a Data Analyst with an engineering background, I focus on generating insights and making data-driven decisions.
+Welcome to my GitHub portfolio. As a Data Scientist with an engineering background, I focus on generating insights and developing models that provide the information needed to make data-driven decisions.
 
-I have a growing portfolio of projects demonstrating my expertise in data cleaning, analysis, and visualisation, featuring R, Python, and SQL queries for data manipulation, as well as Tableau visualisations, illustrating my passion for turning complex data into relevant insights.
+I have a growing portfolio of projects demonstrating my expertise in EDA and ML modelling, featuring R, Python, and SQL queries for data manipulation, Tableau/Seaborn/Matplotib visualisations, and multiple supervised and unsupervised models, illustrating my passion for turning complex data into relevant insights.
 
 Feel free to explore my repositories and contact me if you have any questions!
 
