@@ -6,6 +6,14 @@ I have a growing portfolio of projects demonstrating my expertise in data cleani
 
 Feel free to explore my repositories and contact me if you have any questions!
 
+<h2>📕 Guides</h2>
+
+### Journey into Data Science
+**Description:**
+Detailed, easy-to-understand guide documenting my learning, covering the fundamental theory of data science, including exploratory data analysis (EDA), statistics, regression and machine learning.
+
+**Objective:** Create a living-document thatsimplifies as much as possible complex concepts with real-world examples, making it a compendium of information for beginners getting into the field while maintaining completeness.
+
 <h2>👨‍💻 Projects:</h2>
 
 ### [Employee Turnover Prediction at Salifort Motors](https://github.com/Miguel-G-Soares/Employee-Turnover-ML-Model)
@@ -18,6 +26,16 @@ The HR department of Salifort Motors is concerned about employee turnover,and wa
 **Objective:**
 Preform an exploratory data analysis (EDA) on employee data to identify key factors that contribute to employee turnover.
 Create various machine learning models to predict whom is most at risk.
+
+### [Automated Detection of Claims in TikTok Content](https://github.com/Miguel-G-Soares/Automated-Detection-of-Claims-in-TikTok-Videos)
+
+*( Python - NPL, ML modelling )*
+
+**Description:**
+TikTok's moderation team wants to streamline the process of reviewing content that has been flagged by developing a ML model to pre-process content, allowing them to prioritizeg user reports more effectively
+
+**Objective:**
+Classify videos into either opinion-based or claim-based utilizing the data gathered.
 
 ### [Cyclistic - Bicycle Sharing, Chicago](https://github.com/Miguel-G-Soares/Cyclistic-Analysis)
 
