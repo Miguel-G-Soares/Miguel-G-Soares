@@ -12,7 +12,7 @@ Feel free to explore my repositories and contact me if you have any questions!
 **Description:**
 Detailed, easy-to-understand guide documenting my learning, covering the fundamental theory of data science, including exploratory data analysis (EDA), statistics, regression and machine learning.
 
-**Objective:** Create a living-document thatsimplifies as much as possible complex concepts with real-world examples, making it a compendium of information for beginners getting into the field while maintaining completeness.
+**Objective:** Create a living-document that simplifies as much as possible complex concepts with real-world examples, making it a compendium of information for beginners getting into the field while maintaining completeness.
 
 <h2>👨‍💻 Projects:</h2>
 
