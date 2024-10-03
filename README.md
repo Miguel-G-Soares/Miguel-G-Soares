@@ -21,7 +21,7 @@ Detailed, easy-to-understand guide documenting my learning, covering the fundame
 *( Python - Logistic Regression, Naive Bayes, Decision Tree, Random Forest, Gradient Boosting )*
 
 **Description:**
-The HR department of Salifort Motors is concerned about *employee* turnover, and wants to understand what features contribute most to emloyee turnover rates to help identify employees at risk of leaving.
+The HR department of Salifort Motors is concerned about employee turnover, and wants to understand what features contribute most to emloyee turnover rates to help identify employees at risk of leaving.
 
 **Objective:**
 Preform an exploratory data analysis (EDA) on employee data to identify key factors that contribute to employee turnover.
