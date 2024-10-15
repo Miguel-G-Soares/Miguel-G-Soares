@@ -32,7 +32,7 @@ Create various machine learning models to predict whom is most at risk.
 *( Python - NPL, ML modelling )*
 
 **Description:**
-TikTok's moderation team wants to streamline the process of reviewing content that has been flagged by developing a ML model to pre-process content, allowing them to prioritizeg user reports more effectively
+TikTok's moderation team wants to streamline the process of reviewing content that has been flagged by developing a ML model to pre-process content, allowing them to prioritize user reports more effectively
 
 **Objective:**
 Classify videos into either opinion-based or claim-based utilizing the data gathered.
